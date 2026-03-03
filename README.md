@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Amirali%20Maharramov&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Amirali Header" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimv123&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amirali%20Maharramov&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Amirali Header" />
 </p>
 
 <p align="center">
@@ -20,6 +16,10 @@
 
 ## 🚀 About Me
 I am a dedicated IT professional and developer focusing on infrastructure and web solutions. I manage system and network architectures while designing modern web interfaces. Currently, I am scaling my brands **Dijitify** and **Teknik Servis**.
+
+* 🔭 I’m currently working on **Helpdesk IT systems & cPanel Server Management**
+* 🌱 I’m currently learning **Advanced Networking (CCNA) & ITIL concepts**
+* 💬 Ask me about **PHP, React, System Administration, or Web Hosting**
 
 ---
 
@@ -46,13 +46,32 @@ I am a dedicated IT professional and developer focusing on infrastructure and we
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ## 📊 Contribution Evolution
+
 <p align="center">
   <img src="https://ghchart.rshah.org/36BCF7/alimv123" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alimv123&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=36BCF7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimv123&layout=compact&theme=dark&bg_color=0D1117&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimv123&theme=dark&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
 </p>
 
 ---
@@ -73,19 +92,3 @@ I am a dedicated IT professional and developer focusing on infrastructure and we
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<br>
-
-## 📈 Activity Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimv123&theme=dark&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimv123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alimv123/alimv123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
