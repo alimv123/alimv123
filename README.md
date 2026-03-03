@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Amirali&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Amirali's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alimv123&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bosssrealz&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimv123&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" /></a>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@ I am a dedicated IT professional and developer focusing on infrastructure and we
 
 ---
 
-## 📊 3D Contribution Evolution
+## 📊 Contribution Evolution
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Bosssrealz&theme=dark" alt="3D Contribution Graph" />
+  <img src="https://ghchart.rshah.org/36BCF7/alimv123" alt="Contribution Graph" />
 </p>
 
 ---
@@ -79,13 +79,13 @@ I am a dedicated IT professional and developer focusing on infrastructure and we
 ## 📈 Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bosssrealz&theme=dark&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alimv123&theme=dark&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bosssrealz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimv123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Bosssrealz/Bosssrealz/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/alimv123/alimv123/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
